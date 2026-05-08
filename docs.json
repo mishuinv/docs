@@ -39,7 +39,7 @@
       ]
     },
     "directory": "card",
-    "groups": [
+    "pages": [
       {
         "group": "Platform",
         "icon": "layers",
@@ -73,7 +73,8 @@
           "integrations/connectors/crm",
           "integrations/webhooks/configure"
         ]
-      }
+      },
+      "why-sip-works"
     ]
   },
   "logo": {
