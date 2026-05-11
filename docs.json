@@ -1,6 +1,6 @@
 {
   "$schema": "https://mintlify.com/docs.json",
-  "theme": "almond",
+  "theme": "mint",
   "name": "\"Mishu Investments\"",
   "description": "Helping investors build wealth through disciplined investing.",
   "colors": {
@@ -37,8 +37,8 @@
     ]
   },
   "logo": {
-    "light": "/logo/light.svg",
-    "dark": "/logo/dark.svg"
+    "light": "/images/mishu-logo.png.jpg",
+    "dark": "/images/mishu-logo.png.jpg"
   },
   "navbar": {
     "links": [],
@@ -53,5 +53,8 @@
       "x": "https://x.com/yourcompany",
       "linkedin": "https://linkedin.com/company/yourcompany"
     }
+  },
+  "background": {
+    "image": "/images/mishu-logo.png.jpg"
   }
 }
