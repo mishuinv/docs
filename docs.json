@@ -38,8 +38,8 @@
     ]
   },
   "logo": {
-    "light": "/images/mishu_logo_400x100.png",
-    "dark": "/images/mishu_logo_400x100.png"
+    "light": "/images/mishu_logo_300x80.png",
+    "dark": "/images/mishu_logo_300x80.png"
   },
   "navbar": {
     "links": [],
