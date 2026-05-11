@@ -37,7 +37,10 @@
       "home2"
     ]
   },
-  "logo": "/images/mishu_logo_300x80.png",
+  "logo": {
+    "light": "/images/mishu_logo_300x80.png",
+    "dark": "/images/mishu_logo_300x80.png"
+  },
   "navbar": {
     "links": [],
     "primary": {
