@@ -37,8 +37,8 @@
     ]
   },
   "logo": {
-    "light": "/images/mishu-logo.png.jpg",
-    "dark": "/images/mishu-logo.png.jpg"
+    "light": "/images/mishu_logo_400x100.png",
+    "dark": "/images/mishu_logo_400x100.png"
   },
   "navbar": {
     "links": [],
@@ -55,6 +55,6 @@
     }
   },
   "background": {
-    "image": "/images/mishu-logo.png.jpg"
+    "image": "/images/mishu_logo_400x100.png"
   }
 }
