@@ -20,22 +20,13 @@
     "options": ["copy", "view", "assistant", "mcp", "add-mcp"]
   },
   "navigation": {
-    "global": {
-      "anchors": [
-        {
-          "anchor": "Home",
-          "icon": "house",
-          "href": "/"
-        }
-      ]
-    },
     "directory": "card",
     "pages": [
+      "home2",
       "why-sip-works",
       "market-crash-guide",
       "start-investing",
       "contact",
-      "home2",
       "value-averaging-strategy",
       "free-financial-consultation",
       "why-term-insurance-matters"
