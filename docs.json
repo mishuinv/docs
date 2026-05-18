@@ -55,5 +55,13 @@
       "light": "/images/mishu_logo_300x80.png",
       "dark": "/images/mishu_logo_300x80.png"
     }
+  },
+  "errors": {
+    "404": {
+      "redirect": true
+    }
+  },
+  "interaction": {
+    "drilldown": false
   }
 }
